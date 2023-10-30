@@ -1,0 +1,28 @@
+body{
+  /* margin: 20px 350px; */
+  background-color: #101418;
+  color: aliceblue;
+}
+
+.container{
+  background-color: #ffffff08;
+  max-width: max-content;
+  padding: 50px;
+  margin-top: 50px;
+}
+
+.wrapTrahIcon{
+  color: #f54242!important;
+  background-color: none!important;
+  border-radius: 50%!important;
+  margin: 9px!important;
+  padding: 9px!important;
+  min-width: 0!important;
+}
+
+.wrapTrahIcon:hover{
+  background-color: #f5424213!important;
+  border-radius: 50%!important;
+  padding: 9px!important;
+  min-width: 0!important;
+}
